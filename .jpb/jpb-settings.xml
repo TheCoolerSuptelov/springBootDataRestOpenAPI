@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DatabaseMigrationSettings">
+    <database-infos>
+      <database-info>
+        <dbms-id>postgres</dbms-id>
+        <mapping-types>
+          <mapping-type sql-type-parameter="Nothing">
+            <java-class>PK</java-class>
+            <sql-type>uuid</sql-type>
+          </mapping-type>
+        </mapping-types>
+      </database-info>
+    </database-infos>
+  </component>
+</project>
